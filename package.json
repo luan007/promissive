@@ -1,6 +1,6 @@
 {
   "name": "promissive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A very lightweight and naive callback-to-promise function converter.",
   "main": "index.js",
   "scripts": {

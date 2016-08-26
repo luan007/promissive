@@ -10,6 +10,7 @@ request.promise(options).then((res) => {
 });
 ```
 
+
 is equiv-to:
 
 ``` javascript
