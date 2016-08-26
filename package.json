@@ -1,0 +1,28 @@
+{
+  "name": "promissive",
+  "version": "1.0.0",
+  "description": "A very lightweight & naive callback-to-promise function converter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luan007/promissive.git"
+  },
+  "keywords": [
+    "promise",
+    "promisify",
+    "callback",
+    "q",
+    "function",
+    "promissive",
+    "converter"
+  ],
+  "author": "Mike Luan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luan007/promissive/issues"
+  },
+  "homepage": "https://github.com/luan007/promissive#readme"
+}
